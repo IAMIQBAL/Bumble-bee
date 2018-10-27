@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlue">#00AAFF</color>
+    <color name="brightBlue">#89D8FF</color>
+    <color name="greenTrans">#ace561</color>
+    <color name="green_dark_color">#5da004</color>
+    <color name="green_text_color">#669900</color>
+    <color name="green">#73c51b</color>
+    <color name="yellow_dark">#DCAE5C</color>
+    <color name="action_bar_color">#6AB419</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorSecondary">@color/material_deep_teal_200</color>
+    <color name="colorSecondaryDark">@color/material_deep_teal_500</color>
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="black_translucent">#80000000</color>
+    <color name="action_bar_color_default">#6AB419</color>
+    <color name="grey_color">#666666</color>
+    <color name="black_color">#000000</color>
+    <color name="dim_white_color">#32ffffff</color>
+    <color name="white_color">#ffffff</color>
+    <color name="divider">#33000000</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <!-- Esmart color specifications-->
+    <color name="profile_background">#F2F2F2</color>
+    <color name="profile_name_color">#979797</color>
+    <color name="default_text_color">#323232</color>
+    <color name="default_bg">#EFEEEA</color>
+    <color name="green_dark_color_default">#5DA004</color>
+    <color name="green_text_color_default">#669900</color>
+    <color name="text_light_color">#999999</color>
+
+    <color name="pressed">#FFF4A460</color>
+    <color name="notpressed">#F57F1B</color>
+
+    <color name="spressed">#FF8EBC50</color>
+
+    <color name="fb_before_pressed">#3A5A97</color>
+    <color name="fb_pressed">#FF29406C</color>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="black">#000000</color>
+
+    <color name="floating_button">#43686F</color>
+
+    <color name="username0">#e21400</color>
+    <color name="username1">#91580f</color>
+    <color name="username2">#f8a700</color>
+    <color name="username3">#f78b00</color>
+    <color name="username4">#58dc00</color>
+    <color name="username5">#287b00</color>
+    <color name="username6">#a8f07a</color>
+    <color name="username7">#4ae8c4</color>
+    <color name="username8">#3b88eb</color>
+    <color name="username9">#3824aa</color>
+    <color name="username10">#a700ff</color>
+    <color name="username11">#d300e7</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>

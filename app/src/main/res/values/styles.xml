@@ -1,0 +1,44 @@
+<resources>
+
+    Base application theme.
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/yellow_dark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:textColorSecondary">@color/white_color</item>
+    </style>
+
+    <style name="AppTheme.FullScreen">
+        <!--<item name="windowActionBar">false</item>-->
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        // below one is for searchbar bg color
+        <item name="android:editTextColor">@android:color/white</item>
+    </style>
+
+    <style name="toolbar_theme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/white_color</item>
+    </style>
+
+
+    <style name="expandedappbar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="collapsedappbar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white_color</item>
+    </style>
+
+</resources>
